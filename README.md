@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi...I'm%20Brandon%20Estrella" style="width: 100%;" />
 
   
-A **Senior Frontend Engineer**, **CTO**, and **Product Architect** based in the U.S., passionate about building high-performance web and mobile applications, integrating AI into real-world products, and scaling meaningful digital experiences.
+A **Senior Full-Stack Engineer**, **CTO**, and **Product Architect** based in the U.S., passionate about building high-performance web and mobile applications, integrating AI into real-world products, and scaling meaningful digital experiences.
 
 - Leading engineering at [Marriage365](https://marriage365.com)
 - Building LLM-powered tools and real-time fantasy sports apps
