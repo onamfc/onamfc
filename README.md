@@ -48,5 +48,3 @@ Each week, I’ll:
 <a href="https://x.com/sitetransition" title="X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" height="30"/></a>
 
 ---
-
-> “Scripts so tight, they don’t miss a byte.”
