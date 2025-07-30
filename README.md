@@ -10,7 +10,7 @@ A **Senior Full-Stack Engineer**, **CTO**, and **Product Architect** based in th
 ---
 
 ## 52 Open Source Projects in 52 Weeks
-<img src="https://dpt3aqeyfpth5.cloudfront.net/img/52-for-52-logo.png" style="height:200px;">
+<a href="https://github.com/onamfc/52-for-52"><img src="https://dpt3aqeyfpth5.cloudfront.net/img/52-for-52-logo.png" style="height:200px;"></a>
 
 Over the next year, I'm building and releasing 52 open source projects in 52 weeks. Why?
 
@@ -43,8 +43,8 @@ Each week, I’ll:
 
 ## Let’s Connect
 
-<a href="mailto:brandonestrelladev@gmail.com" title="Email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
-<a href="https://www.linkedin.com/in/brandon-estrella-dev/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
-<a href="https://x.com/sitetransition" title="X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" height="30"/></a>
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandonestrelladev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-estrella-dev)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sitetransition)
 
 ---
