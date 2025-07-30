@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi...I'm%20Brandon%20Estrella" style="width: 100%;" />
+<img alt="Hi, I'm Brandon Estrella" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi...I'm%20Brandon%20Estrella" style="width: 100%;" />
 
 A **Senior Full-Stack Engineer**, **CTO**, and **Product Architect** based in the U.S., passionate about building high-performance web and mobile applications, integrating AI into real-world products, and scaling meaningful digital experiences.
 
@@ -35,7 +35,7 @@ Each week, I’ll:
 
 ## My Skills
 
-<img src="./img/get-wild.gif" style="width: 100%;max-width:610px" />
+<img alt="programming is rock n roll" src="./img/get-wild.gif" style="width: 100%; max-width:610px;" />
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,laravel,php,wordpress,mysql,redis,docker,aws,github,git,vite,webpack,npm,nextjs,nodejs,redux,jest,html,css,tailwind,figma,postman&perline=11)](#)
 
