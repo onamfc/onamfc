@@ -11,6 +11,7 @@ A **Senior Full-Stack Engineer**, **CTO**, and **Product Architect** based in th
 
 ## 52 Open Source Projects in 52 Weeks
 <img src="https://dpt3aqeyfpth5.cloudfront.net/img/52-for-52-logo.png" style="height:200px;">
+
 Over the next year, I'm building and releasing 52 open source projects in 52 weeks. Why?
 
 - Because consistency beats intensity.
@@ -33,6 +34,8 @@ Each week, I’ll:
 ---
 
 ## My Skills
+
+<img src="./img/get-wild.gif" style="width: 100%;max-width:610px" />
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,laravel,php,wordpress,mysql,redis,docker,aws,github,git,vite,webpack,npm,nextjs,nodejs,redux,jest,html,css,tailwind,figma,postman&perline=11)](#)
 
