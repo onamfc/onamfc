@@ -31,6 +31,8 @@ Each week, I’ll:
  2. [Database Archiver for Laravel](https://github.com/onamfc/laravel-database-archiver)
  3. [Gravity Forms to Clevertap Connector](https://github.com/onamfc/gravity-forms-clevertap-integration)
 
+ ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
+
 ---
 
 ## My Skills
