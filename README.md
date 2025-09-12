@@ -33,7 +33,7 @@ Each week, I’ll:
 4. [Route Visualizer for Laravel](https://github.com/onamfc/laravel-route-visualizer)
 5. [Eloquent to Json Schema Generator](https://github.com/onamfc/eloquent-to-json-generator)
 6. [MCP Starter Template - TypeScript](https://github.com/onamfc/mcp-starter-template-ts)
-7. [Video Transcoder](https://github.com/onamfc/video-transcoder)
+7. [AWS Video Transcoder](https://github.com/onamfc/video-transcoder)
 
  ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
 
