@@ -29,10 +29,11 @@ Each week, I’ll:
 ### The 52 for 52 Project List
 1. [DevLogger for Laravel](https://github.com/onamfc/laravel-devlogger)
 2. [Gravity Forms to Clevertap Connector](https://github.com/onamfc/gravity-forms-clevertap-integration)
-3. [Gravity Forms to Clevertap Connector](https://github.com/onamfc/gravity-forms-clevertap-integration)
+3. [Database Archiver for Laravel](https://github.com/onamfc/laravel-database-archiver)
 4. [Route Visualizer for Laravel](https://github.com/onamfc/laravel-route-visualizer)
 5. [Eloquent to Json Schema Generator](https://github.com/onamfc/eloquent-to-json-generator)
 6. [MCP Starter Template - TypeScript](https://github.com/onamfc/mcp-starter-template-ts)
+7. [Video Transcoder](https://github.com/onamfc/video-transcoder)
 
  ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
 
