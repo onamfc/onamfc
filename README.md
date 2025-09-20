@@ -4,6 +4,7 @@
 A **Senior Full-Stack Engineer**, **CTO**, and **Product Architect** based in the U.S., passionate about building high-performance web and mobile applications, integrating AI into real-world products, and scaling meaningful digital experiences.
 
 - Leading engineering at [Marriage365](https://marriage365.com)
+- Freelancing as a Software Engineer at [Acorn Anlaytics](https://acornanalytics.com)
 - Building LLM-powered tools and real-time fantasy sports apps
 - Lover of elegant code, developer experience, and infrastructure that scales
 
@@ -34,6 +35,7 @@ Each week, I’ll:
 5. [Eloquent to Json Schema Generator](https://github.com/onamfc/eloquent-to-json-generator)
 6. [MCP Starter Template - TypeScript](https://github.com/onamfc/mcp-starter-template-ts)
 7. [AWS Video Transcoder](https://github.com/onamfc/video-transcoder)
+8. [GitHub Non "Follow Backs"](https://github.com/onamfc/github-non-follow-backs)
 
  ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
 
