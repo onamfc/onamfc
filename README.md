@@ -25,7 +25,7 @@ It’s about solving real problems, building momentum, and sharing what I learn 
 Each week, I’ll:
 - Launch a new open source repo
 - Share a short write-up on how it works
-- Post lessons learned on GitHub, [LinkedIn](https://linkedin.com/in/brandon-estrella-dev), and [Twitter](https://twitter.com/sitetransition)
+- Post lessons learned on GitHub and [LinkedIn](https://linkedin.com/in/brandon-estrella-dev)
 
 ### The 52 for 52 Project List
 1. [DevLogger for Laravel](https://github.com/onamfc/laravel-devlogger)
@@ -36,6 +36,7 @@ Each week, I’ll:
 6. [MCP Starter Template - TypeScript](https://github.com/onamfc/mcp-starter-template-ts)
 7. [AWS Video Transcoder](https://github.com/onamfc/video-transcoder)
 8. [GitHub Non "Follow Backs"](https://github.com/onamfc/github-non-follow-backs)
+9. [API Mocker](https://github.com/onamfc/api-mocker)
 
  ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
 
