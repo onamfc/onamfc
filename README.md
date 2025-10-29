@@ -40,6 +40,7 @@ Each week, I’ll:
 10. [Developer Log](https://github.com/onamfc/developer-log)
 11. [Github "Follow Back"](https://github.com/onamfc/github-follow-back)
 12. [JS Package Analyzer](https://github.com/onamfc/package-analyzer)
+12. [NPM Vulnerability Scanner](https://github.com/onamfc/npm-vulnerability-scanner)
 
  ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
 
