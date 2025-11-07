@@ -42,7 +42,7 @@ Each week, I’ll:
 12. [JS Package Analyzer](https://github.com/onamfc/package-analyzer)
 13. [NPM Vulnerability Scanner](https://github.com/onamfc/npm-vulnerability-scanner)
 14. [Vibe Coder Prompt Builder](https://github.com/onamfc/vibe-coder-prompt-builder)
-15. [Xantus Rag Chat](https://github.com/onamfc/rag-chat)
+15. [Xantus Retrevial Augmentation Generation Chat](https://github.com/onamfc/rag-chat)
 
  ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
 
