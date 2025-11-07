@@ -4,7 +4,7 @@
 A **Senior Full-Stack Engineer**, **CTO**, and **Product Architect** based in the U.S., passionate about building high-performance web and mobile applications, integrating AI into real-world products, and scaling meaningful digital experiences.
 
 - Leading engineering at [Marriage365](https://marriage365.com)
-- Freelancing as a Software Engineer at [Acorn Anlaytics](https://acornanalytics.com)
+- Freelancing as a Software Engineer at [Settlemate](https://www.settlemate.io)
 - Building LLM-powered tools and real-time fantasy sports apps
 - Lover of elegant code, developer experience, and infrastructure that scales
 
