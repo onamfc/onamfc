@@ -44,6 +44,7 @@ Each week, I’ll:
 14. [Vibe Coder Prompt Builder](https://github.com/onamfc/vibe-coder-prompt-builder)
 15. [Xantus - Retrieval Augmented Generation (RAG) Chat](https://github.com/onamfc/rag-chat)
 16. [LinkForty - Deeplink Core](https://github.com/LinkForty/core)
+17. [GitHub MCP API Client](https://github.com/onamfc/mcp-github-integration)
 
  ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
 
