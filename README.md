@@ -5,6 +5,7 @@ A **Senior Full-Stack Engineer**, **CTO**, and **Product Architect** based in th
 
 - Leading engineering at [Marriage365](https://marriage365.com)
 - Freelancing as a Software Engineer at [Settlemate](https://www.settlemate.io)
+- Chief Engineer at [LinkForty](https://www.linkforty.com)
 - Building LLM-powered tools and real-time fantasy sports apps
 - Lover of elegant code, developer experience, and infrastructure that scales
 
