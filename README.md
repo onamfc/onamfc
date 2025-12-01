@@ -4,7 +4,7 @@
 A **Senior Full-Stack Engineer**, **CTO**, and **Product Architect** based in the U.S., passionate about building high-performance web and mobile applications, integrating AI into real-world products, and scaling meaningful digital experiences.
 
 - Leading engineering at [Marriage365](https://marriage365.com)
-- Freelancing as a Software Engineer at [Settlemate](https://www.settlemate.io)
+- Freelancing as a Frontend Engineer at [Settlemate](https://www.settlemate.io)
 - Chief Engineer at [LinkForty](https://github.com/LinkForty)
 - Building LLM-powered tools and real-time fantasy sports apps
 - Lover of elegant code, developer experience, and infrastructure that scales
@@ -46,6 +46,7 @@ Each week, I’ll:
 15. [Xantus - Retrieval Augmented Generation (RAG) Chat](https://github.com/onamfc/rag-chat)
 16. [LinkForty - Deeplink Core](https://github.com/LinkForty/core)
 17. [GitHub MCP API Client](https://github.com/onamfc/mcp-github-integration)
+18. [LinkForty - React Native SDK](https://github.com/LinkForty/mobile-sdk-react-native)
 
  ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
 
