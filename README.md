@@ -49,6 +49,7 @@ Each week, I’ll:
 18. [LinkForty - React Native SDK](https://github.com/LinkForty/mobile-sdk-react-native)
 19. [Agent Prompt Library](https://github.com/onamfc/agent-prompt-library)
 20. [Project Security Scanner](https://github.com/onamfc/security-scanner)
+21. [LinkForty - iOS SDK](https://github.com/LinkForty/mobile-sdk-ios)
 
  ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
 
