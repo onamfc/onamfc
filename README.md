@@ -51,6 +51,7 @@ Each week, I’ll:
 20. [Project Security Scanner](https://github.com/onamfc/security-scanner)
 21. [LinkForty - iOS SDK](https://github.com/LinkForty/mobile-sdk-ios)
 22. [Cheesebox - Secure Video Sharing Platform](https://github.com/onamfc/cheesebox)
+23. [Image Optimizer](https://github.com/onamfc/img-optimize)
 
  ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
 
