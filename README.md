@@ -52,6 +52,7 @@ Each week, I’ll:
 21. [LinkForty - iOS SDK](https://github.com/LinkForty/mobile-sdk-ios)
 22. [Cheesebox - Secure Video Sharing Platform](https://github.com/onamfc/cheesebox)
 23. [Image Optimizer](https://github.com/onamfc/img-optimize)
+24. [CaseShift](https://github.com/onamfc/case-shift)   
 
  ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
 
