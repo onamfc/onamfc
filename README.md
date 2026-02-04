@@ -53,7 +53,9 @@ Each week, I’ll:
 22. [Cheesebox - Secure Video Sharing Platform](https://github.com/onamfc/cheesebox)
 23. [Image Optimizer](https://github.com/onamfc/img-optimize)
 24. [CaseShift](https://github.com/onamfc/case-shift)
-25. [Waypointjs](https://github.com/onamfc/waypointjs)
+25. 🌧️ Rain Delay
+26. [Waypointjs](https://github.com/onamfc/waypointjs)
+27. [Stadium Lights](https://github.com/onamfc/stadium-lights)
 
  ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
 
