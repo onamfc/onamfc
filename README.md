@@ -57,6 +57,8 @@ Each week, I’ll:
 26. [Waypointjs](https://github.com/onamfc/waypointjs)
 27. [Stadium Lights](https://github.com/onamfc/stadium-lights)
 28. [Branch Clean](https://github.com/onamfc/branch-clean)
+29. [LinkForty - Android SDK](https://github.com/LinkForty/mobile-sdk-android)
+30. [LinkForty - Expo SDK](https://github.com/LinkForty/mobile-sdk-expo)
 
  ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
 
