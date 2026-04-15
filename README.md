@@ -62,6 +62,9 @@ Each week, I’ll:
 31. [Magic Calculator](https://github.com/onamfc/magic-calculator)
 32. [Gavel - AI architecture governance](https://github.com/onamfc/gavel)
 33. [Fliq - Secret Messaging App](https://github.com/LinkForty/fliq)
+34. 🌴 PTO
+35. [Disc Drive](https://github.com/onamfc/disc-drive)
+36. [LinkForty MCP Server](https://github.com/LinkForty/mcp-server)
 
  ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
 
