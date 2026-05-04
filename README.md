@@ -65,6 +65,8 @@ Each week, I’ll:
 34. 🌴 PTO
 35. [Disc Drive](https://github.com/onamfc/disc-drive)
 36. [LinkForty MCP Server](https://github.com/LinkForty/mcp-server)
+37. [Drizzle Soft Deletes](https://github.com/onamfc/drizzle-soft-delete)
+38. [Xantus - Fleet](https://github.com/xantus-ai/Fleet)
 
  ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
 
