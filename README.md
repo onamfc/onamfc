@@ -67,6 +67,7 @@ Each week, I’ll:
 36. [LinkForty MCP Server](https://github.com/LinkForty/mcp-server)
 37. [Drizzle Soft Deletes](https://github.com/onamfc/drizzle-soft-delete)
 38. [Xantus - Fleet](https://github.com/xantus-ai/Fleet)
+39. [Runner 404](https://github.com/onamfc/runner-404)
 
  ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
 
