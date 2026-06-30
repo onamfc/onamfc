@@ -4,7 +4,7 @@
 A **Senior Full-Stack Engineer**, **CTO**, and **Product Architect** based in the U.S., passionate about building high-performance web and mobile applications, integrating AI into real-world products, and scaling meaningful digital experiences.
 
 - Leading engineering at [Marriage365](https://marriage365.com)
-- Freelancing as a Mobile Engineer at [Settlemate](https://www.settlemate.io)
+- Freelancing as a Product & Mobile Engineer at [Settlemate](https://www.settlemate.io)
 - Chief Engineer at [LinkForty](https://github.com/LinkForty)
 - Building LLM-powered tools and real-time fantasy sports apps
 - Lover of elegant code, developer experience, and infrastructure that scales
@@ -69,6 +69,11 @@ Each week, I’ll:
 38. [Xantus - Fleet](https://github.com/xantus-ai/Fleet)
 39. [Runner 404](https://github.com/onamfc/runner-404)
 40. [Xantus - Spec Seal](https://github.com/xantus-ai/spec-seal)
+41. [LinkForty - AASA Core](https://github.com/LinkForty/aasa-validator/blob/main/packages/core)
+42. [LinkForty - AASA Worker](https://github.com/LinkForty/aasa-validator/blob/main/packages/worker)
+43. [LinkForty - AASA Node](https://github.com/LinkForty/aasa-validator/blob/main/packages/node)
+44. [LinkForty - AASA Widget](https://github.com/LinkForty/aasa-validator/blob/main/packages/widget)
+45. [LinkForty - AASA React](https://github.com/LinkForty/aasa-validator/blob/main/packages/react)
 
  ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
 
