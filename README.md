@@ -74,6 +74,7 @@ Each week, I’ll:
 43. [LinkForty - AASA Node](https://github.com/LinkForty/aasa-validator/blob/main/packages/node)
 44. [LinkForty - AASA Widget](https://github.com/LinkForty/aasa-validator/blob/main/packages/widget)
 45. [LinkForty - AASA React](https://github.com/LinkForty/aasa-validator/blob/main/packages/react)
+46. [ExitRamp](https://github.com/onamfc/exitramp)
 
  ...for more, check out the [52-for-52 repository](https://github.com/onamfc/52-for-52) or [github pages](https://onamfc.github.io/52-for-52/)
 
