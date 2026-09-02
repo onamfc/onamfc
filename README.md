@@ -3,7 +3,7 @@
 
 A **Senior Full-Stack Engineer**, **CTO**, and **Product Architect** based in the U.S., passionate about building high-performance web and mobile applications, integrating AI into real-world products, and scaling meaningful digital experiences.
 
-- Chief Engineer at [LinkForty](https://github.com/LinkForty)
+- Chief Engineer at [LinkForty](https://linkforty.com)
 - Freelancing engineer at [Marriage365](https://marriage365.com)
 - Freelancing as a Product & Mobile Engineer at [Settlemate](https://www.settlemate.io)
 - Building LLM-powered tools and real-time fantasy sports apps
